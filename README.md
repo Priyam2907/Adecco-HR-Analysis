@@ -131,6 +131,7 @@ This project demonstrates how HR data can be leveraged to:
 ## 🙌 Author
 
 **Priyam Jain**
+
 Data Analyst
 
 ---
