@@ -1,5 +1,9 @@
 # Adecco HR Analytics – Employee Attrition Analysis
 
+## Dashboard Preview
+
+![Employee Attrition Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project focuses on analyzing employee attrition at **Adecco India**, a mid-sized technology company. The goal is to identify key factors influencing employee turnover and provide data-driven recommendations to improve employee retention, satisfaction, and overall organizational performance.
