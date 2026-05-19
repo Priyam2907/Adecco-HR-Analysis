@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Employee Attrition Dashboard](dashboard.png)
+![Employee Attrition Dashboard](Dashboard.png)
 
 ## Project Overview
 
