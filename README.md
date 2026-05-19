@@ -1,12 +1,12 @@
-# 📊 Adecco HR Analytics – Employee Attrition Analysis
+# Adecco HR Analytics – Employee Attrition Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing employee attrition at **Adecco India**, a mid-sized technology company. The goal is to identify key factors influencing employee turnover and provide data-driven recommendations to improve employee retention, satisfaction, and overall organizational performance.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Adecco India is experiencing **high attrition rates**, particularly among:
 
@@ -21,7 +21,7 @@ This leads to:
 
 ---
 
-## 🎯 Objective
+## Objective
 
 * Analyze HR data to uncover patterns behind employee attrition
 * Identify key factors affecting retention
@@ -29,7 +29,7 @@ This leads to:
 
 ---
 
-## 👥 Stakeholders
+## Stakeholders
 
 ### Internal Stakeholders:
 
@@ -44,11 +44,11 @@ This leads to:
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains employee-level HR data including:
 
-### 🔑 Key Features:
+### Key Features:
 
 * **Demographics:** Age, Gender, Marital Status, Education
 * **Job Details:** Department, Job Role, Job Level
@@ -60,7 +60,7 @@ The dataset contains employee-level HR data including:
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 
 * **Attrition Rate**
 * **Job Satisfaction Score**
@@ -70,9 +70,9 @@ The dataset contains employee-level HR data including:
 
 ---
 
-## 🧠 Analysis Performed
+## Analysis Performed
 
-### 🟢 Basic Analysis
+### Basic Analysis
 
 * Overall attrition rate
 * Department-wise attrition
@@ -80,7 +80,7 @@ The dataset contains employee-level HR data including:
 * Average income of employees who left
 * Job satisfaction by role
 
-### 🟡 Intermediate Analysis
+### Intermediate Analysis
 
 * Attrition vs Job Involvement
 * Attrition vs Work-Life Balance
@@ -90,18 +90,18 @@ The dataset contains employee-level HR data including:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-* 🔴 Highest attrition observed in **Sales Department**
-* 👶 Junior-level employees are more likely to leave
-* 💸 Lower salary is associated with higher attrition
-* ⏱️ Overtime significantly increases attrition risk
-* 🏠 Longer commute slightly increases attrition
-* 😐 Low job satisfaction is a major contributing factor
+* Highest attrition observed in **Sales Department**
+* Junior-level employees are more likely to leave
+* Lower salary is associated with higher attrition
+* Overtime significantly increases attrition risk
+* Longer commute slightly increases attrition
+* Low job satisfaction is a major contributing factor
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 * Improve **compensation structure** for junior employees
 * Reduce excessive **overtime workload**
@@ -112,13 +112,13 @@ The dataset contains employee-level HR data including:
 
 ---
 
-## 📊 Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Excel** (Pivot Tables, Charts, Statistical Analysis)
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 This project demonstrates how HR data can be leveraged to:
 
@@ -128,7 +128,7 @@ This project demonstrates how HR data can be leveraged to:
 
 ---
 
-## 🙌 Author
+## Author
 
 **Priyam Jain**
 
@@ -136,4 +136,3 @@ Data Analyst
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
